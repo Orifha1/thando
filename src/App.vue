@@ -148,7 +148,7 @@ function triggerConfetti() {
       <div v-else key="final" class="card">
         <h2 class="title">You Found It ❤️</h2>
 
-        <img src="/your-photo.jpg" class="photo" />
+        <img src="/your-photo.jpeg" class="photo" />
 
         <p class="subtitle">
           You solve mysteries the same way you’ve solved my heart -
