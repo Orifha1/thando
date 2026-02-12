@@ -9,7 +9,7 @@ const clueCount = ref(0)
 
 const clueMessage = ref<string>("")
 
-const correctPassword = "panda"
+const correctPassword = "pumpkin"
 
 function checkPassword() {
   if (passwordInput.value.toLowerCase() === correctPassword) {
